@@ -1,3 +1,14 @@
+---
+name: rsync-net
+description: Off-server backup storage using standard Linux SSH, scp, and rsync commands
+compatibility: opencode
+metadata:
+  type: tool
+  original_file: rsync-net-tool.md
+  category: backup
+  scope: linux
+---
+
 # rsync.net Tool
 
 The purpose of this tool is to provide off-server backup storage using native Linux commands.
